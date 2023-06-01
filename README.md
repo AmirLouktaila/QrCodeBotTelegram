@@ -1,4 +1,4 @@
 # QrCodeBotTelegram
-Install these two libraries\n
--pip install qrcode\n
--pip install pyTelegramBotAPI
+Install these two libraries
+pip install qrcode
+pip install pyTelegramBotAPI
