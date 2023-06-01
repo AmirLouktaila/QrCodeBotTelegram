@@ -3,7 +3,7 @@ import qrcode
 import random
 import cv2
 from pyzbar.pyzbar import decode
-bot = telebot.TeleBot("5860213339:AAEaz5qVv8YBmbe-TBzV41ceNUAp2NGYoao")
+bot = telebot.TeleBot("YourTokenBot")
 a=random.randint(1000,10000000)
 
 @bot.message_handler(commands=['start', 'help'])
